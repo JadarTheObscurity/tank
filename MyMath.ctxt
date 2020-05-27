@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyMath
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyMath\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=Point\ add(Point,\ Point)
+comment2.params=a\ b
+comment2.target=double\ dot(Point,\ Point)
+comment3.params=angle
+comment3.target=double\ angleInRange(double)
+numComments=4

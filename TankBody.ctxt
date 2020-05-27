@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TankBody
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tank\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=me
+comment1.target=TankBody(boolean)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Tank\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ playerControl()
+comment4.params=
+comment4.target=void\ enemyControl()
+comment5.params=
+comment5.target=void\ keyBoardControl()
+comment6.params=
+comment6.target=void\ tankMove()
+comment7.params=
+comment7.target=boolean\ testMove()
+comment8.params=p
+comment8.target=void\ moveToPoint(Point)
+comment9.params=p\ speed
+comment9.target=void\ moveToPoint(Point,\ double)
+numComments=10

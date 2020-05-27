@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Mover
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mover\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Mover()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Mover\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=speed
+comment10.target=void\ setMaxSpeed(double)
+comment11.params=
+comment11.target=double\ getMaxSpeed()
+comment2.params=max_speed
+comment2.target=Mover(double)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=speed
+comment4.target=void\ setSpeed(Point)
+comment5.params=
+comment5.target=Point\ getSpeed()
+comment6.params=
+comment6.target=void\ move()
+comment7.params=pos
+comment7.target=void\ setLocation(Point)
+comment8.params=
+comment8.target=Point\ getLocation()
+comment9.params=
+comment9.target=Point\ getLastPos()
+numComments=12

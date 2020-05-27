@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TankWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TankWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment10.params=p
+comment10.target=boolean\ hi(Path)
+comment2.params=me\ x\ y
+comment2.target=void\ createTank(boolean,\ int,\ int)
+comment3.params=
+comment3.target=void\ generateMap()
+comment4.params=
+comment4.target=void\ updateMap()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ checkBulletCollision()
+comment7.params=init_pos\ init_speed\ direction
+comment7.target=void\ spawnBullet(Point,\ Point,\ double)
+comment8.params=b
+comment8.target=void\ removeBullet(Bullet)
+comment9.params=
+comment9.target=void\ removeAnimation()
+numComments=11
